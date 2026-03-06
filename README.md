@@ -2,7 +2,7 @@
 
 ### Summary
 
-PHP Loop to generate each Chart Type.
+PHP Loop to generate each Chart Type: 'line', 'bar', 'radar', 'doughnut', 'pie', 'polarArea', 'bubble', 'scatter'.
 
 This PHP script returns an array, [ $js, $charts ], which can then be placed on a page.
 
