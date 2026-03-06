@@ -77,3 +77,12 @@ return [ $js, $charts ];
 }
 ?>
 ```
+
+Line
+
+![Line Chart](chart-line.png)
+
+
+
+
+
