@@ -78,9 +78,29 @@ return [ $js, $charts ];
 ?>
 ```
 
-Line
-
 ![Line Chart](chart-line.png)
+
+
+![Bar Chart](chart-bar.png)
+
+
+![Radar Chart](chart-radar.png)
+
+
+![Doughnut Chart](chart-doughnut.png)
+
+
+![Pie Chart](chart-pie.png)
+
+
+![Polar Area Chart](chart-polarArea.png)
+
+
+![Bubble Chart](chart-bubble.png)
+
+
+![Scatter Chart](chart-scatter.png)
+
 
 
 
